@@ -1,0 +1,1 @@
+curl -X POST -H "Content-type:application/json" -d @our_private_function_params.json http://localhost:5000/sombra  

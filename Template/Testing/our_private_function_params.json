@@ -1,0 +1,6 @@
+{
+    "function" : "our_private_function",
+    "params" : {
+    	"private_API_key" : "*_Some_Private_API_Key_"
+    }
+}
